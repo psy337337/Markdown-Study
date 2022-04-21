@@ -1,14 +1,10 @@
 # Markdown Study
 #### 자기소개서
 
-[![Dankook](https://www.dankook.ac.kr/html_repositories/images/www/kor_content/est_ui_int01.jpg)](https://www.dankook.ac.kr/)
-
-
-
+[![Dankook](https://www.dankook.ac.kr/html_repositories/images/www/kor_content/est_ui_int01.jpg)](https://www.dankook.ac.kr/)  
 ***
 기본정보
 ------------
-  
 |               |               |
 | :------------ | :-----------: |
 | 이름     | 박서영            |
@@ -32,13 +28,13 @@
     - 아파트 문 앞에 붙임
   
 * 방청 알바(단기)
-    - ~~프로그램명은 말할 수 없음~~음악프로 다수
+    - ~~프로그램명은 말할 수 없음~~ 음악프로 다수
   
 * 포장 알바(수시로)
     - 수비월드
   
 * 편의점 알바(4개월 이상)
-    - GS25군자능동점    
+    - GS25군자능동점
 ***
 좋아하는 것들 
 ----------
